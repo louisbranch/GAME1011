@@ -33,7 +33,6 @@ void menu() {
       square_table();
       break;
   }
-  return;
 }
 
 void kg_to_lbs() {
@@ -128,5 +127,4 @@ void back_to_menu() {
     system(CLEAR);
     menu();
   }
-  return;
 }
