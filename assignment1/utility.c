@@ -94,6 +94,7 @@ void square_table() {
   int n = get_input();
   int i, j;
   int dots = 11;
+  puts("Num    Square");
   for (i = 1; i <= n; i++) {
     printf("%d", i);
     if (i > 3 && i < 9) {
