@@ -1,0 +1,5 @@
+hero 3.5 1 true
+enemy 3.2 2 true
+minion 2.0 3 true
+door 0 4 false
+boss 4.1 5 true
